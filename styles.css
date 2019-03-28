@@ -1,0 +1,14 @@
+
+body{
+	background-image: url("giphy.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	cursor: url('moo.cur'), auto;
+	color: Pink;
+	height: 100%;
+}
+
+h1{
+	text-align: center
+}
