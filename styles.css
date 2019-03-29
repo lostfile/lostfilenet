@@ -13,5 +13,6 @@ h1{
 }
 
 div {
-	
+	border: 10px solid pink;
+	border-radius: 5px;
 }
