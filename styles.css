@@ -9,11 +9,8 @@ body{
 }
 
 h1{
-	text-align: center
-}
-
-div {
-	border-style: double;
+	text-align: center;
+	border-style: solid;
 	border-color: pink;
 	border-radius: 5px;
 	border-width: 8px;
